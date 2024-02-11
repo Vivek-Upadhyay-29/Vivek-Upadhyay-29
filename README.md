@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Vivek-Upadhyay-29
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ..
+- 👋 Hi, I’m @Vivek-Upadhyay
+- 👀 I’m interested in designing
+- 🌱 I’m currently learning Front End
+
 
 <!---
 Vivek-Upadhyay-29/Vivek-Upadhyay-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

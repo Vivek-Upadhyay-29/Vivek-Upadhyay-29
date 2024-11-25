@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-upadhyay-29&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-upadhyay-29" /> </p>
 
+[![View count](https://visitcount.itsvg.in/api?id=vivek-upadhyay-29&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=vivek-upadhyay-29)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-upadhyay-29" alt="vivek-upadhyay-29" /></a> </p>
 
 - 🔭 I’m currently working on **Front-End**
